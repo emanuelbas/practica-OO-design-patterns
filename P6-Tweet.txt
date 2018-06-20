@@ -1,0 +1,1 @@
+El smell detectado es Duplicated Code: hay 2 metodos que son iguales salvo porque utilizan diferentes operaciones sobre la variable tweet, entonces voy a combinar estos métodos pasándole por valor el mensaje que cada tweet debe performar #user o #userGender. El refáctoring se llama Parameterize method
